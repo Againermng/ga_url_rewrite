@@ -1,6 +1,0 @@
-{
-  "Image": { "Name": "crania/modnginx" },
-  "Ports": [ { "ContainerPort": "80" } ],
-  "Logging": "/var/log",
-  "AWSEBDockerrunVersion": "1"
-}
